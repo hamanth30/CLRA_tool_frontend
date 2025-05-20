@@ -17,8 +17,8 @@ function App() {
     // <Login/>
     //<Home />
    //<ClientSubmission/>
-     <ClientTasks/>
-    // <Admin />
+     //<ClientTasks/>
+     <Admin />
     //<ClientRegisteration />
   )
 }
